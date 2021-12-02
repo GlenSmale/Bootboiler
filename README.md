@@ -1,2 +1,2 @@
-# Bootstrap 5 Boilerplate
+# Bootstrap5 Scaffold
 Bootstrap 5 Boilerplate is a bootstrap template for rapidly scaffolding new frontend web projects. Template includes, head code, analytics, og and twitter card meta, site pages, terms, policies. Templates include front-end with VueJS (or) ReactJS, folders /css/js/image/icons/favicon etc. An admin dashboard, common pages, terms, privacy policy, cookie script, back to top, multiple navbars and section layouts to choose from.
